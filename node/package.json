@@ -4,6 +4,7 @@
   "description": "EdirectInsurance Test",
   "main": "app.js",
   "scripts": {
+    "start": "node app.js",
     "test": "test"
   },
   "author": "Andre Afonso",
