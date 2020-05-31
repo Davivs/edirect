@@ -1,0 +1,73 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.project {
+  margin-top : 10px;
+  border : 1px solid;
+}
+
+.projectHeader {
+  background: linear-gradient(0deg, rgba(0,0,0,0.1), transparent);
+  border-bottom : 1px solid;
+  padding-left: 10px;
+  font-size: 24px;
+  padding-bottom: 10px;
+  font-weight: bold;
+}
+
+.projectIcons {
+  float: right;
+}
+
+.projectButtons {
+  color: #0069d9;
+  cursor:pointer;
+}
+
+
+
+.projectContent {
+  padding: 10px;
+}
+
+.createProject {
+  margin: 15px;
+  border : 1px solid;
+}
+
+.projectInput {
+  margin : 5px;
+}
+
+.dashboardHeader {
+  background: linear-gradient(0deg, rgba(0,0,0,0.1), transparent);
+  border-bottom : 2px solid;
+  border-right : 2px solid;
+  border-left : 2px solid;
+  padding-left: 10px;
+  font-size: 24px;
+  padding-bottom: 10px;
+  font-weight: bold;
+}
+
+.loginPage {
+  width: 400px;
+  margin: auto;
+  margin-top: 30px;
+  border : 2px solid;
+}
+
+.loginPage .col-12 {
+  margin: 15px;
+}
